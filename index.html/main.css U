@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+.avocado {
+    color: green;
+}
+
+h1.smurf {
+    color: blue;
+}
+
+p.avocado {
+    font-size: 90px;
+    text-decoration: underline;
+}
